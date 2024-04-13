@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-between p-24">
       <div className="z-10 max-w-5xl items-center font-mono text-sm lg:flex">
-          same-K's portpolio
+          same-K&apos;s portpolio
       </div>
       <div className="relative">
         <div className="bg-white px-6 py-8">
