@@ -1,3 +1,4 @@
+import Arrow from "./images/arrow_outward.svg";
 
 export default function Home() {
   return (
